@@ -2,9 +2,9 @@
 
 export default function Login() {
     return (
-      <div className="flex justify-center mt-32  sm:mb-28 mb-32">
+      <div className="flex justify-center mt-28 sm:mt-28  sm:mb-20 mb-28">
 
-        <form className="h-72 w-80 box-border border-2 rounded-lg pt-5 bg-stone-200" id="form">
+        <form className="h-80 w-80 box-border border-2 rounded-lg pt-5 bg-stone-200" id="form">
         <h1 className="text-center font-bold " >Login Page</h1>
 
         <p className="mt-4 ml-3 font-bold">Enter your E-mail and password to login</p> 
