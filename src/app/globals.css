@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#logo {
+  background-image: url(../../public/back.jpg);
+}
+
+#form {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+  background-image: url(https://img.freepik.com/free-photo/laptop-office-plant-black-background-top-view_169016-34505.jpg);
+  background-position: center;
+  background-size: cover;
+
+}
